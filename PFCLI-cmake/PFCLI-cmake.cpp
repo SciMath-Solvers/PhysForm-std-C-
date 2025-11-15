@@ -5,8 +5,13 @@
 
 using namespace std;
 
+
+static void text(const char* ctx) {
+	cout << ctx << endl;
+};
+
 int main()
 {
-	cout << "Hello CMake." << endl;
+	text("Hello from Cmake");
 	return 0;
 }

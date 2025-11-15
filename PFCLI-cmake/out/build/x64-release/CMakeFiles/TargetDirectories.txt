@@ -1,0 +1,3 @@
+C:/Users/nanda/source/repos/SciMath-Solvers/PhysForm-std-C-/PFCLI-cmake/out/build/x64-release/CMakeFiles/PFCLI-cmake.dir
+C:/Users/nanda/source/repos/SciMath-Solvers/PhysForm-std-C-/PFCLI-cmake/out/build/x64-release/CMakeFiles/edit_cache.dir
+C:/Users/nanda/source/repos/SciMath-Solvers/PhysForm-std-C-/PFCLI-cmake/out/build/x64-release/CMakeFiles/rebuild_cache.dir
