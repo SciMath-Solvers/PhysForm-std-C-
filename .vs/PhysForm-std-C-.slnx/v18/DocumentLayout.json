@@ -1,16 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\nanda\\source\\repos\\SciMath-Solvers\\PhysForm-std-C-\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nanda\\source\\repos\\SciMath-Solvers\\PhysForm-std-C-\\src-CLI\\compile.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src-CLI\\compile.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nanda\\source\\repos\\SciMath-Solvers\\PhysForm-std-C-\\src-CLI\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src-CLI\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -18,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,32 +22,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "compile.py",
-              "DocumentMoniker": "C:\\Users\\nanda\\source\\repos\\SciMath-Solvers\\PhysForm-std-C-\\src-CLI\\compile.py",
-              "RelativeDocumentMoniker": "src-CLI\\compile.py",
-              "ToolTip": "C:\\Users\\nanda\\source\\repos\\SciMath-Solvers\\PhysForm-std-C-\\src-CLI\\compile.py",
-              "RelativeToolTip": "src-CLI\\compile.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2025-11-15T22:04:08.861Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\nanda\\source\\repos\\SciMath-Solvers\\PhysForm-std-C-\\src-CLI\\main.cpp",
-              "RelativeDocumentMoniker": "src-CLI\\main.cpp",
-              "ToolTip": "C:\\Users\\nanda\\source\\repos\\SciMath-Solvers\\PhysForm-std-C-\\src-CLI\\main.cpp",
-              "RelativeToolTip": "src-CLI\\main.cpp",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAACsAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-15T21:45:35.232Z",
-              "EditorCaption": ""
             }
           ]
         }
