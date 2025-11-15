@@ -1,5 +1,6 @@
 #include <vector>
 #include <iostream>
+#include <typeinfo>
 
 extern "C" {}
 
@@ -11,17 +12,7 @@ void text(const char* text) {
 	cout << text << endl;
 }
 
-ldbl input() {
-    ldbl I;
-    cin >> I >> "";
-    if (cin.fail()) {
-        cin.clear();
-        cin.ignore(numeric_limits<streamsize>::max(), '\n');
-        text("Invalid input. Please enter a valid number.");
-        return input();
-	}
-    return I;
-}
+
 
 
 
@@ -34,7 +25,7 @@ int main()
     text("                                                            [3] Credits");
     text("                                                            [4] App Info");
     text("                                                            [5] Exit");
-    input();
+    ;
     return 0;
 }
 
