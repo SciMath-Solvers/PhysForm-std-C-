@@ -11,11 +11,13 @@ void text(const char* text) {
 	cout << text << endl;
 }
 
-dbl input() {
-    dbl I;
+ldbl input() {
+    ldbl I;
     cin >> I >> "";
     return I;
 }
+
+
 
 int main()
 {
@@ -39,6 +41,6 @@ or
 
 cl hello.cpp -o PhysForm
 
-    cl /EHsc /Fo"obj\\" /Fe"builds\\PhysForm.exe" main.cpp
+    cl /EHsc /Fo"obj\\" /Fe"builds\\PhysForm.exe" src-CLI\main.cpp
 
 */
