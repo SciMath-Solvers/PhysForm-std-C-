@@ -14,6 +14,12 @@ void text(const char* text) {
 ldbl input() {
     ldbl I;
     cin >> I >> "";
+    if (cin.fail()) {
+        cin.clear();
+        cin.ignore(numeric_limits<streamsize>::max(), '\n');
+        text("Invalid input. Please enter a valid number.");
+        return input();
+	}
     return I;
 }
 
